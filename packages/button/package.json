@@ -9,13 +9,13 @@
     ],
     "author": "OpenX",
     "license": "MIT",
-    "homepage": "https://github.com/gkn1234/openx-ui/blob/master/README.md",
+    "homepage": "https://github.com/ahaakdo/mouseUI/blob/master/README.md",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/gkn1234/openx-ui.git"
+        "url": "git+https://github.com/ahaakdo/mouseUI/tree/master"
     },
     "bugs": {
-        "url": "https://github.com/gkn1234/openx-ui/issues"
+        "url": "https://github.com/ahaakdo/mouseUI/issues"
     },
     "scripts": {
         "build": "echo build",
